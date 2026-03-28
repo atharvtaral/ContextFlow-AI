@@ -494,6 +494,32 @@ def query_ai(user_input, top_k=10):
 st.set_page_config(page_title="ContextFlow AI", page_icon="🤖", layout="wide")
 st.title("🤖 ContextFlow AI - Smart RAG Chat")
 
+# =========================================================
+# 🛑 KILL SWITCH (API SAFETY CONTROL)
+# Set this to True to stop all API calls and show a warning.
+# Set this to False to enable the app.
+# =========================================================
+API_DISABLED = True 
+
+if API_DISABLED:
+    st.error("### 🛑 Service Temporarily Suspended")
+    st.warning("""
+    **Notice to Visitors:**
+    Due to high API usage costs and token limits, this live demo has been 
+    temporarily paused by the developer. 
+    
+    You can still explore the **Source Code on GitHub** to understand the 
+    RAG architecture and implementation.
+    
+    *Reason: Budget protection for OpenAI API.*
+    """)
+    st.info("Contact the developer (Atharv) for a private demonstration.")
+    st.stop() # This prevents any further code from running!
+# =========================================================
+
+st.title("🤖 ContextFlow AI - Smart RAG Chat")
+# ... (pudhcha sarta code: messages, functions, etc.)
+
 # Session state initialization
 if "messages" not in st.session_state:
     st.session_state.messages = []
