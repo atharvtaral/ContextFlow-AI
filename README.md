@@ -25,7 +25,7 @@ Experience ContextFlow AI in action!
 ---
 
 <p align="center">
-  <video src="[Architecture_vidio.mp4](https://github.com/user-attachments/assets/4331692d-9171-4d0f-a28a-3ddf1fdb91d6)" width="100%" controls autoplay loop muted>
+  <video src="https://github.com/user-attachments/assets/4331692d-9171-4d0f-a28a-3ddf1fdb91d6" width="100%" controls autoplay loop muted>
     Your browser does not support the video tag.
   </video>
 </p>
