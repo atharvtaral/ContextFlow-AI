@@ -3,6 +3,7 @@
 ## Business Problem
 Employees waste time searching across scattered chat logs and documents.  
 **Objective:** Build an AI assistant that remembers conversations, reads PDFs, and delivers context-aware answers instantly.
+
 ---
 
 ## Project Overview
