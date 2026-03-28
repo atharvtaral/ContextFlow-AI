@@ -1,9 +1,8 @@
 # 🤖 ContextFlow AI – End-to-End Gen AI Assistant
 
 ## Business Problem
-Organizations today face **information overload**: scattered chat logs, documents, and user queries are hard to manage. Employees and managers waste time searching for relevant information across multiple platforms.  
-**Objective:** Build an AI assistant that can **retain conversation memory, process documents (PDFs), and provide accurate context-aware responses**, ultimately improving productivity and decision-making.  
-
+Employees waste time searching across scattered chat logs and documents.  
+**Objective:** Build an AI assistant that remembers conversations, reads PDFs, and delivers context-aware answers instantly.
 ---
 
 ## Project Overview
