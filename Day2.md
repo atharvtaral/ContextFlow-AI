@@ -1,4 +1,4 @@
-# 📂 ContextFlow AI
+# 🤖 ContextFlow AI
 
 **Goal:** Build an AI chatbot with memory and RAG to handle long conversations efficiently.
 
