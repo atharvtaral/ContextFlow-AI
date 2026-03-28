@@ -47,8 +47,8 @@
 
 ---
 
-### 📂 Project Structure
-'''text
+## 📂 Project Structure
+```text
 contextflow-ai/
 ├── app.py # Main chatbot logic
 ├── data/
