@@ -12,6 +12,12 @@ The project demonstrates **🧠 vector memory**, **🔍 semantic retrieval**, **
 
 ---
 
+## 🌐 Live Demo
+Experience ContextFlow AI in action!  
+[🚀 Launch the Web App](https://contextflow-ai-1232.streamlit.app/) – Try the chat interface, upload PDFs, and explore AI memory retrieval live.
+
+---
+
 ## 📅 Project Timeline & Highlights
 
 ### Day 1: Initial Chat Prototype
