@@ -18,7 +18,7 @@ Experience ContextFlow AI in action!
 
 ---
 
-## 🎥 Live Demo Video
+## 🎥 Live Demo Architecture
 Watch ContextFlow AI in action on YouTube!  
 [▶️ Watch on YouTube](https://youtu.be/vVQ5xvr7E8I) – See the chat interface, PDF uploads, and AI memory retrieval in a quick walkthrough.
 
