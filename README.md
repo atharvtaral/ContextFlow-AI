@@ -22,9 +22,13 @@ Experience ContextFlow AI in action!
   <img src="architecture.png" width="800" title="Project Architecture">
 </p>
 
-## 🎥 Live Demo Architecture
-Watch ContextFlow AI in action on YouTube!  
-[▶️ Watch on YouTube](https://youtu.be/vVQ5xvr7E8I) – See the chat interface, PDF uploads, and AI memory retrieval in a quick walkthrough.
+---
+
+<p align="center">
+  <video src="assets/demo_video.mp4" width="100%" controls autoplay loop muted>
+    Your browser does not support the video tag.
+  </video>
+</p>
 
 ---
 
