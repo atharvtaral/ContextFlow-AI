@@ -83,33 +83,26 @@ Auto Save Again
 
 ---
 
-## 📁 Project Structure
-contextflow-ai/
-│
-├── app.py
-├── config.py
-│
-├── memory/
-│ ├── store.py
-│ ├── retrieve.py
-│ ├── summarize.py
-│
-├── models/
-│ ├── llm.py
-│ ├── embeddings.py
-│
-├── tools/
-│ ├── memory_tool.py
-│
-├── utils/
-│ ├── helpers.py
-│
-├── data/
-│ ├── chat_history.json
-│
-├── requirements.txt
-└── README.md
+## 📂 Project Structure
 
+contextflow-ai/
+├── app.py              # Main entry point of the application
+├── config.py           # Configuration settings and API keys
+├── memory/             # Logic for managing conversation context
+│   ├── store.py        # Functions for saving data/embeddings
+│   ├── retrieve.py     # Logic for searching relevant context
+│   └── summarize.py    # Summarization scripts for long-term memory
+├── models/             # AI Model initializations
+│   ├── llm.py          # LLM configurations (OpenAI, Gemini, etc.)
+│   └── embeddings.py   # Embedding model setups
+├── tools/              # Custom agent tools
+│   └── memory_tool.py  # Specific tool for memory interaction
+├── utils/              # General helper functions
+│   └── helpers.py      # Common utility scripts
+├── data/               # Local data storage
+│   └── chat_history.json
+├── requirements.txt    # Project dependencies
+└── README.md           # Project documentation
 
 ---
 
