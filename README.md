@@ -1,5 +1,11 @@
 # 🤖 ContextFlow AI – End-to-End Gen AI Assistant
 
+## Business Problem
+Organizations today face **information overload**: scattered chat logs, documents, and user queries are hard to manage. Employees and managers waste time searching for relevant information across multiple platforms.  
+**Objective:** Build an AI assistant that can **retain conversation memory, process documents (PDFs), and provide accurate context-aware responses**, ultimately improving productivity and decision-making.  
+
+---
+
 ## Project Overview
 ContextFlow AI is a full-stack Generative AI project that evolved over six days from a simple terminal-based chat to a professional, document-aware RAG (Retrieval-Augmented Generation) system with a Streamlit UI. The project demonstrates **vector memory**, **semantic retrieval**, **multi-modal data integration**, and **production-grade AI system design**.
 
