@@ -95,7 +95,7 @@ def query_ai(user_input, top_k=10):
 
 # --- UI Setup ---
 st.set_page_config(page_title="ContextFlow AI", page_icon="🤖", layout="wide")
-st.title("🤖 ContextFlow AI - Smart RAG Chat")
+#st.title("🤖 ContextFlow AI - Smart RAG Chat")
 
 # =========================================================
 # 🛑 KILL SWITCH (API SAFETY CONTROL)
