@@ -102,7 +102,7 @@ st.title("🤖 ContextFlow AI - Smart RAG Chat")
 # Set this to True to stop all API calls and show a warning.
 # Set this to False to enable the app.
 # =========================================================
-API_DISABLED = True 
+API_DISABLED = False 
 
 if API_DISABLED:
     st.error("### 🛑 Service Temporarily Suspended")
