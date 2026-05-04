@@ -79,7 +79,7 @@ def query_ai(user_input, top_k=10):
     
     # 4. OpenAI Call
     response = client.chat.completions.create(
-        model="gpt-3.5-turbo",
+        model="gpt-4o",
         messages=[
             {"role": "system", "content": "You are a professional AI assistant. Always prioritize the provided context to answer."},
             {"role": "user", "content": prompt}
